@@ -74,7 +74,7 @@ params:
     apple_touch_icon: "apple-touch-icon.png"
     safari_pinned_tab: "safari-pinned-tab.svg"
   label:
-    text: "CFD Post"
+    text: "CFD Design"
     icon: "favicon.ico"
     iconHeight: 35
 
