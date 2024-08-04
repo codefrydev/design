@@ -8,7 +8,7 @@ dateString: August 2024
 description: "Redesigning the UI/UX for Ved AI for Mobile Plateform"
 #canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "cover.jpg" # image path/url
+    image: "./cover.jpg" # image path/url
     alt: "Download Logo" # alt text
     #caption: "Optical Character Recognition"  display caption under cover 
 
@@ -17,4 +17,4 @@ keywords: ["Design", "codefrydev", "UI/UX", "CFD", "user interface","user exprie
 
 ---
 
-![VedMobileApp](./vedmobileapp.png)
+![VedMobileApp](vedmobileapp.png)
