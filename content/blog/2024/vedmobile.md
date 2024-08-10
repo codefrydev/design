@@ -56,6 +56,7 @@ Design a user journey (with UI screens) for the Android app of Ved, targeting us
 ### Screens ###
 ![Screens](./screens.png)
 
-
+## Prototype
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvcttBok5q13Z4qElprg5H9%2FVED-MOBILE-PROTOTYPE%3Fpage-id%3D0%253A1%26node-id%3D2-2958%26starting-point-node-id%3D2%253A9798%26t%3Dc1fyukPMH4xZ8S4Z-1" allowfullscreen></iframe>
 
 
