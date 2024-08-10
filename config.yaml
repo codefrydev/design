@@ -81,8 +81,8 @@ params:
 
   # cover image for posts
   cover:
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
 
   socialIcons:
     - name: "email"
@@ -119,11 +119,11 @@ markup:
     extensions:
       math: true
   highlight:
-    # anchorLineNos: true
+    anchorLineNos: true
     codeFences: true
     guessSyntax: true
     lineNos: true
-    # noClasses: false
+    noClasses: false
     style: vs
 minify:
   disableXML: true
