@@ -15,18 +15,10 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: application
-      name: App
-      url: /application
-      weight: 11
     - identifier: blog
       name: Design
       url: /blog
       weight: 11
-    - identifier: games
-      name: Game
-      url: /games
-      weight: 12
     - identifier: search
       name: Search
       url: /search
@@ -36,7 +28,7 @@ menu:
       url: /tags
       weight: 60 
     - identifier: archives
-      name: ARC
+      name: Archives
       url: /archives
       weight: 60 
 
@@ -44,7 +36,7 @@ params:
   math: true
   customCSS:
     - "css/custom.css"
-  mainSections : ["blog","games","application"] # put parent directory to show in home pages
+  mainSections : ["blog"] # put parent directory to show in home pages
   images: ["android-chrome-512x512.png"]
   keywords: ["Blog", "CFD", "NET" ,"Tutorials","Design","Games"]
   description: "CodeFryDev is your ultimate destination for diverse digital content and tools. Enjoy our extensive game collection, innovative productivity apps, and micro applications for quick solutions. Access educational materials, interactive courses, and comprehensive tutorials for all skill levels. Fuel your creativity with design resources and versatile tools for efficient project completion. Visit CodeFryDev today and explore all we have to offer!"
