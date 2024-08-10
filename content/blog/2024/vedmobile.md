@@ -26,10 +26,10 @@ Ved is an AI scriptwriting assistant. It is helpful in overcoming writer’s blo
 Design a user journey (with UI screens) for the Android app of Ved, targeting users from anywhere in India, ranging from metropolitan cities like Mumbai to small villages in Rajasthan, who want to use Ved on their phones. The journey should start with the user opening the Ved tool on a mobile device and starting to write a 500-word short story while taking help from the AI chat to overcome writer's block, receive plot suggestions, and more. The user then completes the story and shares it with others.
 
 ## Design Methodology
-![Design Methodology](./vedmobile/designMethodology.png)
+![Design Methodology](./designMethodology.png)
 
 ### Empathy Map ###
-![Empathy Map](./vedmobile/empathymap.png)
+![Empathy Map](./empathymap.png)
 **PAIN POINTS** 
 * Lack of expriences, 
 * Fear of failure, 
@@ -48,18 +48,14 @@ Design a user journey (with UI screens) for the Android app of Ved, targeting us
 * Get feedback on how to improve the usability of the app.
 
 ### Wireframing and Flow
-![WIREFRAMING AND FLOW](./vedmobile/wireframing.png)
+![WIREFRAMING AND FLOW](./wireframing.png)
 
 ### Color and Fonts ###
-![Color and Fonts](./vedmobile/color%20and%20fonts.png)
+![Color and Fonts](./color%20and%20fonts.png)
 
 ### Screens ###
-![Screens](./vedmobile/screens.png)
+![Screens](./screens.png)
 
 
 
 
-```yaml
-cdkslfkjs
-
-```
