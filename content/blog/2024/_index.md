@@ -3,9 +3,9 @@ title: "2024"
 author: "Abhijeet"
 weight: 1
 date: 2024-08-03
-lastmod: 2024-08-03
+lastmod: 2024-08-11
 dateString: June 2024  
-description: "Guide of How To Create Blog Post, Categories And Etc"
+description: "Explore our collection of innovative, functional, and aesthetically pleasing designs that enhance everyday life with sustainable and user-centric approaches."
 #canonicalURL: "https://canonical.url/to/page"
 cover:
     image: "cover.jpg" # image path/url
@@ -13,6 +13,6 @@ cover:
     #caption: "Optical Character Recognition"  display caption under cover 
 
 tags: [ "NET", "codefrydev", "C sharp", "CFD", "Download File","Downloader","httpclient"]
-keywords: [ "NET", "codefrydev", "C sharp", "CFD", "Skia Sharp","Generate Video","Basic","FFMPEG"]
+keywords: ["CFD","CodefryDev","Code Fry Dev","Csharp","skiasharp","General", "Design", "UI/UX", "Product Design", "Interface Design", "NPD", "New Product Design", "Design Management", ]
 hideMeta: true
 ---
