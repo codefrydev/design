@@ -12,7 +12,7 @@ cover:
     alt: "Download Logo" # alt text
     #caption: "Optical Character Recognition"  display caption under cover 
 
-tags: [ "Design", "codefrydev", "UI/UX", "CFD", "user interface","user exprience","app design"]
+tags: [ "Design", "codefrydev", "UI/UX", "CFD", "user interface","user exprience","app design", Card Shorting, Research]
 keywords: ["Design", "codefrydev", "UI/UX", "CFD", "user interface","user exprience","app design","Ved Mobile","app","FFMPEG"]
 
 ---
@@ -22,7 +22,7 @@ keywords: ["Design", "codefrydev", "UI/UX", "CFD", "user interface","user exprie
 ## <u>About</u>
 Ved is an AI scriptwriting assistant. It is helpful in overcoming writer’s block and it can suggest ideas for stories whenever required. The only limitation is that Ved is currently only available for desktop usage.
 
-**My Challenge was to**
+My Challenge was to
 Design a user journey (with UI screens) for the Android app of Ved, targeting users from anywhere in India, ranging from metropolitan cities like Mumbai to small villages in Rajasthan, who want to use Ved on their phones. The journey should start with the user opening the Ved tool on a mobile device and starting to write a 500-word short story while taking help from the AI chat to overcome writer's block, receive plot suggestions, and more. The user then completes the story and shares it with others.
 
 
@@ -61,6 +61,6 @@ Design a user journey (with UI screens) for the Android app of Ved, targeting us
 ![Screens](./screens.png)
 
 ## <u>Prototype</u>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvcttBok5q13Z4qElprg5H9%2FVED-MOBILE-PROTOTYPE%3Fpage-id%3D0%253A1%26node-id%3D2-9798%26starting-point-node-id%3D2%253A9798%26scaling%3Dscale-down%26content-scaling%3Dfixed%26t%3D4TgscYp4gxlx5cjB-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvcttBok5q13Z4qElprg5H9%2FVED-MOBILE-PROTOTYPE%3Fpage-id%3D0%253A1%26node-id%3D2-9798%26starting-point-node-id%3D2%253A9798%26scaling%3Dcontain%26content-scaling%3Dfixed%26t%3D4TgscYp4gxlx5cjB-1" allowfullscreen></iframe>
 
 
