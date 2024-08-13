@@ -54,7 +54,7 @@
         margin: 0;
         line-height: 1em;
         white-space: nowrap;
-        background-image: url("./texture.png");
+        background-image: url('{{ .Get "TextureImagePath" }}');
         background-size: cover;
         background-position: center;
         -webkit-text-fill-color: transparent;
@@ -155,7 +155,7 @@
 
     #middle_big_title_text>span {
         display: flex;
-        background-image: url("./texture.png");
+        background-image:  url('{{ .Get "TextureImagePath" }}');
         background-size: cover;
         background-position: center;
         -webkit-text-fill-color: transparent;

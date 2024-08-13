@@ -8,7 +8,7 @@ dateString: August 2024
 description: "Creative Engineering Design"
 #canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: ".VedMobile.png" # image path/url
+    image: "VedMobile.png" # image path/url
     alt: "Download Logo" # alt text
     #caption: "Optical Character Recognition"  display caption under cover 
 
@@ -31,5 +31,6 @@ keywords: ["Design", "codefrydev", "UI/UX", "CFD", "user interface","user exprie
     game="GAME"
     FrontimagePath="./front.png"
     BackimagePath="./bg.png"
+    TextureImagePath="./texture.png"
 >}}
 
